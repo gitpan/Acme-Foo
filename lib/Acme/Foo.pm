@@ -2,7 +2,7 @@ package Acme::Foo;
 use strict;
 use warnings;
 
-our $VERSION = '0.00_09';    # VERSION
+our $VERSION = '0.00_10';    # VERSION
 sub foo { return 1; }
 
 1;
@@ -21,7 +21,7 @@ Acme::Foo - brand new module Acme::Foo
 
 =head1 VERSION
 
-version 0.00_09
+version 0.00_10
 
 =head1 SYNOPSIS
 

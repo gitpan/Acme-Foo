@@ -22,7 +22,7 @@ my %WriteMakefileArgs = (
   "NAME" => "Acme::Foo",
   "PREREQ_PM" => {},
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.00_09",
+  "VERSION" => "0.00_10",
   "test" => {
     "TESTS" => "t/*.t"
   }
