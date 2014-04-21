@@ -15,4 +15,4 @@ name: Acme-Foo
 resources:
   bugtracker: http://github.com/alexbyk/Acme-Foo/issues
   repository: http://github.com/alexbyk/Acme-Foo
-version: 0.00_08
+version: 0.00_09
